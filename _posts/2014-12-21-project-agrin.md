@@ -7,4 +7,4 @@ A new way to make websites.
 
 <!-- more -->
 
-A cloud-first server-agnostic content-template management system.
+A cloud-first, server-agnostic, content and theming system.
