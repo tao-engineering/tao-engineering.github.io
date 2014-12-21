@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Agrin
+title: Project Agrin
 ---
 
 A new way to make websites.
