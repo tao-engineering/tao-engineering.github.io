@@ -7,4 +7,4 @@ A new way to make websites.
 
 <!-- more -->
 
-A cloud-first, server-agnostic, website engine.
+A cloud-first server-agnostic website engine.
