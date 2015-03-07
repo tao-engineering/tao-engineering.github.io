@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Contact
+permalink: /contact/
 ---
-
-## Contact
 
 <strong>nick@tao.engineering</strong>
